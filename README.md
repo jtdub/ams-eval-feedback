@@ -15,7 +15,7 @@ If you've encountered a bug or issue with the app, please [create a bug report](
 Have an idea for improving AMS Eval? [Submit a feature request](https://github.com/jtdub/ams-eval-feedback/issues/new?template=feature_request.md).
 
 ### General Feedback
-For general questions or feedback, [start a discussion](https://github.com/jtdub/ams-eval-feedback/discussions) or email us at james.williams@jtdub.com.
+For general questions or feedback, [start a discussion](https://github.com/jtdub/ams-eval-feedback/discussions).
 
 ## App Features
 
